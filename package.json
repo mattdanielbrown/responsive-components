@@ -41,7 +41,7 @@
     "md5": "^2.2.1",
     "name-all-modules-plugin": "^1.0.1",
     "nunjucks": "^3.0.1",
-    "postcss": "^6.0.16",
+    "postcss": "^8.1.7",
     "postcss-cssnext": "^3.0.2",
     "postcss-import": "^11.0.0",
     "require-dir": "^0.3.2",
