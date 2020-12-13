@@ -48,7 +48,7 @@
     "resize-observer-polyfill": "^1.5.0",
     "rev-hash": "^2.0.0",
     "rev-path": "^2.0.0",
-    "serve-static": "^1.13.1",
+    "serve-static": "^1.14.1",
     "shelljs": "^0.8.1",
     "uglify-es": "^3.3.9",
     "uglifyjs-webpack-plugin": "^2.2.0",
