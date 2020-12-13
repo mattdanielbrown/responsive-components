@@ -43,7 +43,7 @@
     "nunjucks": "^3.0.1",
     "postcss": "^8.1.7",
     "postcss-cssnext": "^3.0.2",
-    "postcss-import": "^11.0.0",
+    "postcss-import": "^13.0.0",
     "require-dir": "^0.3.2",
     "resize-observer-polyfill": "^1.5.0",
     "rev-hash": "^2.0.0",
