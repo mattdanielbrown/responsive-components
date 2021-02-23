@@ -23,7 +23,7 @@
   "devDependencies": {
     "autotrack": "^2.4.1",
     "babel-core": "^6.26.0",
-    "babel-eslint": "^8.2.1",
+    "babel-eslint": "^8.2.2",
     "babel-loader": "^8.2.1",
     "babel-plugin-dynamic-import-system-import": "^1.0.0",
     "babel-preset-env": "^1.6.1",
